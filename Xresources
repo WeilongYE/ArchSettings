@@ -2,8 +2,10 @@
 !xrdb -load ~/.Xresources
 
 ! Use a nice truetype font and size by default... 
-xterm*faceName: DejaVu Sans Mono Book
-xterm*faceSize: 15
+!xterm*faceName: DejaVu Sans Mono Book
+!xterm*faceName: Courier Bold
+xterm*faceName: Consolas Regular
+xterm*faceSize: 12
 
 xterm*termName: xterm-256color
 
